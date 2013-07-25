@@ -3,6 +3,7 @@
  * This makes the child theme work. If you need any
  * additional features or let's say menus, do it here.
  *
+ * THIS CHANGE IS SIMULATED AS BEING IN THE BASE / PARENT REPOSITORY
  * @return void
  */
 function required_starter_themesetup() {
